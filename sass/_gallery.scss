@@ -51,6 +51,8 @@
     }
   }
 
+  //object-fit helps to preserve the ratio while cover cells;
+  //without it pics
   &__img {
     width: 100%;
     height: 100%;
